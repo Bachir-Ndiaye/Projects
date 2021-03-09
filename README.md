@@ -1,8 +1,10 @@
-# Wild Code School Projects/Challenges/Courses
+# WELCOME TO MY GITHUB PORTFOLIO
 
-This repository contains all my class projects that i've done over the year 2021 at the Wild Code School Lyon.
+This repository contains all my class projects that i've done over the year 2021 at the Wild Code School Lyon and my personal projects.
 
-For more clarity, i decided to separate projects in 4 different topics.
+For more clarity, i decided to separate projects done with the WCS in 4 different topics.
+
+## Wild Code School PROJECTS
 
 I. Linux environment
 
@@ -19,4 +21,33 @@ III. Git/Github
 IV. Javascript fundamentals
 
  - [A basic calculator](https://github.com/Bachir-Ndiaye/calculator-js)
+
+
+## Personal PROJECTS
+
+[Loading...]
+
+## Background
+Hello / Bienvenue ! 
+
+My name is Amadou and i'm a junior web developer. 
+
+#### About me ?
+
+After a scientific baccalaureat i followed "Preparation for national competitive entrance exams to lead french engineering school [CPGE]" with option in physics and science of engineering. I sueed at Claude Bernard University an electronic, energy, electricity licence and C embed programming licence.
+
+Now, i want to level up and develop some skills in computer science and web development.
+
+My goal in years coming is to be a cybersecurity expert.
+
+#### Want a collaboration ?
+
+| Contact me by        | Data           |
+| ------------- |:-------------:|
+| Email      | amadou.n-diaye@hotmail.Com |
+| Website / Portfolio     |  https://www.amadou-ndiaye.fr/portfolio     |
+| Linkedin | https://www.linkedin.com/in/amadoubassiroundiaye/      |
+
+
+
   
