@@ -1,3 +1,5 @@
+# Wild Code School Projects/Challenges/Courses
+
 This repository contains all my class projects that i've done over the year 2021 at the Wild Code School Lyon.
 
 For more clarity, i decided to separate projects in 4 different topics.
