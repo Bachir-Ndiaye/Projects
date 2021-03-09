@@ -34,7 +34,7 @@ My name is Amadou and i'm a junior web developer.
 
 #### About me ?
 
-After a scientific baccalaureat i followed "Preparation for national competitive entrance exams to lead french engineering school [CPGE]" with option in physics and science of engineering. I sueed at Claude Bernard University an electronic, energy, electricity licence and C embed programming licence.
+After a scientific baccalaureat i followed "Preparation for national competitive entrance exams to lead french engineering school [CPGE]" with option in physics and science of engineering. I sueed at Claude Bernard University an electronic, energy, electricity and C embed programming licence.
 
 Now, i want to level up and develop some skills in computer science and web development.
 
@@ -44,7 +44,7 @@ My goal in years coming is to be a cybersecurity expert.
 
 | Contact me by        | Data           |
 | ------------- |:-------------:|
-| Email      | amadou.n-diaye@hotmail.Com |
+| Email      | amadou.n-diaye@hotmail.com |
 | Website / Portfolio     |  https://www.amadou-ndiaye.fr/portfolio     |
 | Linkedin | https://www.linkedin.com/in/amadoubassiroundiaye/      |
 
