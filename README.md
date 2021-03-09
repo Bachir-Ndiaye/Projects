@@ -4,6 +4,8 @@ This repository contains all my class projects that i've done over the year 2021
 
 For more clarity, i decided to separate projects done with the WCS in 4 different topics.
 
+> Click on the (blue) link of your choise to be redirected to the proper repository
+
 ## Wild Code School PROJECTS
 
 I. Linux environment
