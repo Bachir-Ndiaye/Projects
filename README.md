@@ -8,11 +8,13 @@ For more clarity, i decided to separate projects done with the WCS in 4 differen
 
 ## Wild Code School PROJECTS
 
-I. Linux environment
+I. PHP
+ - [A basic contact formular with control messages](https://github.com/Bachir-Ndiaye/Form)
 
 II. Integration Challenge
 
  - [Frontend Mentor Challenge](https://github.com/Bachir-Ndiaye/crowdfunding-product-page-main)
+ - [Find the precious Challenge with scss](https://github.com/Bachir-Ndiaye/findThePrecious/tree/master)
 
 III. Git/Github
 
@@ -28,6 +30,8 @@ IV. Javascript fundamentals
 ## Personal PROJECTS
 
  - [A platform to search for a musician in Lyon](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
+ - [A platform to search for a music instrument](https://github.com/Bachir-Ndiaye/AmadousStore)
+ - [PHP basic courses](https://github.com/Bachir-Ndiaye/Week3ResumePHP)
 
 ## Background
 Hello / Bienvenue ! 
