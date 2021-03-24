@@ -27,7 +27,7 @@ IV. Javascript fundamentals
 
 ## Personal PROJECTS
 
-[Loading...]
+ - [A platform to search for a musician in Lyon](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
 
 ## Background
 Hello / Bienvenue ! 
