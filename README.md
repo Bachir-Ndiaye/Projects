@@ -10,6 +10,7 @@ For more clarity, i decided to separate projects done with the WCS in 4 differen
 
 I. PHP
  - [A basic contact formular with control messages](https://github.com/Bachir-Ndiaye/Form)
+ - [Connect to Mysql via PDO](https://github.com/Bachir-Ndiaye/PDOMysql)
 
 II. Integration Challenge
 
